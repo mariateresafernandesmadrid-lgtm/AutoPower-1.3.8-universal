@@ -57,12 +57,12 @@ Smart Language Detection: AutoPower speaks your language. The app elegantly sens
 Performance: No more Rosetta. Just pure, native speed.
 
 # AutoPower
-![Icono de AutoPower](AutoPower%20icono.png)
+![AutoPower Icon](AutoPower%20icono.png)
 
-AutoPower es la herramienta definitiva para gestionar el encendido, apagado y reposo de tu Mac de forma automática y profesional.
+**AutoPower** is a powerful, **completely free** utility designed to manage your Mac's startup, shutdown, and sleep cycles automatically and professionally.
 
 ## 📸 Screenshots
-![Interfaz de AutoPower](AutoPower.jpg)
+![AutoPower Interface](AutoPower.jpg)
 
 ---
 
@@ -71,16 +71,15 @@ AutoPower is designed to feel native wherever you are. The app **elegantly sense
 
 ---
 
-### 🚀 Download & Support
+### 🚀 Download & Support (Free Software)
+AutoPower is **100% free to use**. If it makes your life easier, consider fueling its development with a coffee!
 
 * **Direct Download:** [AutoPower-1.3.8-universal.dmg](https://github.com/mariateresafernandesmadrid-lgtm/AutoPower-1.3.8-universal/releases/download/AutoPower-1.3.8-universal/AutoPower-1.3.8-universal.dmg)
-* **Support the Project:** If AutoPower makes your life easier, consider fueling its development with a coffee. Your support keeps the updates coming!
-    ☕ **[Buy me a coffee on Ko-fi](https://ko-fi.com/terry12207)**
+* **Support the Project:** ☕ **[Buy me a coffee on Ko-fi](https://ko-fi.com/terry12207)**
 
 ---
 
 ### 💻 System Requirements
 * **Architecture:** Universal (Native support for M1, M2, M3, M4 & Intel).
 * **OS:** macOS 12.0 Monterey or later.
-
-* 
+* **License:** Free / Open Support.
