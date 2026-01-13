@@ -57,12 +57,15 @@ Smart Language Detection: AutoPower speaks your language. The app elegantly sens
 Performance: No more Rosetta. Just pure, native speed.
 
 
-### 🚀 Download & Support
+### 🚀 Descarga y Soporte
 
-* **Download App:** [📦 AutoPower-1.3.8-universal.dmg](https://github.com/tu-usuario/tu-repo/releases/download/v1.3.8/AutoPower-1.3.8-universal.dmg)
-* **Support the Project:** If AutoPower makes your life easier, consider fueling its development with a coffee. Your support keeps the updates coming!
-    ☕ **[Buy me a coffee on Ko-fi](https://ko-fi.com/terry12207)**
+* **Enlace de la App:** [AutoPower-1.3.8-universal.dmg](AutoPower-1.3.8-universal.dmg)
+* **Soporte al Proyecto:** Si AutoPower te resulta útil, considera apoyar su desarrollo invitándome a un café. ¡Tu ayuda permite que las actualizaciones sigan llegando!
+    ☕ **[Cómprame un café en Ko-fi](https://ko-fi.com/terry12207)**
 
+---
 
+### 🌍 Inteligencia Lingüística
+AutoPower ha sido diseñado para sentirse local en cualquier parte del mundo. La aplicación **detecta con elegancia el idioma de tu sistema** para ofrecerte una interfaz intuitiva y natural en español, inglés, francés, alemán, italiano o portugués, sin que tengas que configurar nada.
 
 
