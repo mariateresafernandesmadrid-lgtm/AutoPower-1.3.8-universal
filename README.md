@@ -52,3 +52,12 @@ Native Support: M1, M2, M3, M4 series.
 Compatibility: macOS 12.0 Monterey or later.
 File Format: .dmg (Universal Installer).
 
+Smart Language Detection: AutoPower speaks your language. The app elegantly senses your Mac's system settings to automatically present itself in English, Spanish, French, German, Italian, or Portuguese, providing a truly native experience from the very first click.
+
+Performance: No more Rosetta. Just pure, native speed.
+
+Links & Support
+Download App: AutoPower-1.3.8-universal.dmg
+ 
+Support the Project: If AutoPower makes your life easier, consider fueling its development with a coffee. Your support keeps the updates coming! ☕ Buy me a coffee on Ko-fi
+
