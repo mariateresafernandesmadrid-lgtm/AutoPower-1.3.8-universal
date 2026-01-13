@@ -56,8 +56,17 @@ Smart Language Detection: AutoPower speaks your language. The app elegantly sens
 
 Performance: No more Rosetta. Just pure, native speed.
 
+
 Links & Support
 Download App: AutoPower-1.3.8-universal.dmg
- 
+
+
 Support the Project: If AutoPower makes your life easier, consider fueling its development with a coffee. Your support keeps the updates coming! ☕ Buy me a coffee on Ko-fi
+
+
+
+
+
+
+
 
