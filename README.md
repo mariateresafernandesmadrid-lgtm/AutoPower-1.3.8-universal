@@ -56,6 +56,20 @@ Smart Language Detection: AutoPower speaks your language. The app elegantly sens
 
 Performance: No more Rosetta. Just pure, native speed.
 
+# AutoPower
+![Icono de AutoPower](AutoPower%20icono.png)
+
+AutoPower es la herramienta definitiva para gestionar el encendido, apagado y reposo de tu Mac de forma automática y profesional.
+
+## 📸 Screenshots
+![Interfaz de AutoPower](AutoPower.jpg)
+
+---
+
+### 🌍 Global Experience
+AutoPower is designed to feel native wherever you are. The app **elegantly senses your Mac's system language**, automatically presenting its interface in English, Spanish, French, German, Italian, or Portuguese for a seamless, intuitive experience.
+
+---
 
 ### 🚀 Download & Support
 
@@ -65,5 +79,8 @@ Performance: No more Rosetta. Just pure, native speed.
 
 ---
 
-### 🌍 Global Experience
-AutoPower is designed to feel native wherever you are. The app **elegantly senses your Mac's system language**, automatically presenting its interface in English, Spanish, French, German, Italian, or Portuguese for a seamless, intuitive experience.
+### 💻 System Requirements
+* **Architecture:** Universal (Native support for M1, M2, M3, M4 & Intel).
+* **OS:** macOS 12.0 Monterey or later.
+
+* 
